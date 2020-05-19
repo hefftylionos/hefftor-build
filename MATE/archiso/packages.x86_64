@@ -794,7 +794,7 @@ hefftor-mirrors-git
 ###########################################################################
 #                            HEFFTOR CALAMARES
 ###########################################################################
-hefftor-calamares
+hefftor-calamares-git
 hefftor-calamares-config-mate-git
 hefftor-system-installation-git
 hefftor-grub-theme-vimix-git
