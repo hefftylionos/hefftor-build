@@ -463,13 +463,11 @@ yay-bin
 # arcolinux-common-git
 # arcolinux-conky-collection-git
 # arcolinux-conky-collection-plasma-git
-arcolinux-cron-git
 # arcolinux-docs-git
 # arcolinux-faces-git
-arcolinux-fonts-git
 # arcolinux-geany-git
 # arcolinux-grub-theme-vimix-git
-arcolinux-hblock-git
+# arcolinux-hblock-git
 arcolinux-keyring
 arcolinux-kvantum-git
 # arcolinux-kvantum-lxqt-git
@@ -479,7 +477,7 @@ arcolinux-kvantum-git
 # arcolinux-lightdm-gtk-greeter-settings
 # arcolinux-local-applications-git
 # arcolinux-local-applications-plasma-hide-git
-arcolinux-local-xfce4-git
+# arcolinux-local-xfce4-git
 # arcolinux-logo-git
 # arcolinux-logout-git
 # arcolinux-lxqt-applications-add-git
@@ -802,6 +800,8 @@ hefftor-grub-theme-vimix-git
 ###########################################################################
 #                              HEFFTOR CONFIGS
 ###########################################################################
+hefftor-cron-git 
+hefftor-fonts-git 
 hefftor-bin-git
 hefftor-conky-elegant-git
 hefftor-glava-config-git
@@ -833,11 +833,13 @@ hefftor-xfce-git
 # hefftor-xfce-config-git
 # hefftor-xfce-dconf-git
 # hefftor-xfce-local-git
+hefftor-local-xfce4-git
 # hefftor-xfce4-panel-profiles-git
 
 ###########################################################################
 #                          HEFFTOR APPLICATIONS
 ###########################################################################
+hefftor-htop-git
 # insync
 # betterlockscreen-git
 # zoom
@@ -884,3 +886,4 @@ hefftor-mate-local-git
 hefftor-mate-dconf-git
 # pasystray
 # paprefs
+
